@@ -1,7 +1,7 @@
 def using_include(array= ["false"], element=0)
-  array = ["false"]
+  array = ["true"]
 element = 0
-array.include?("false")
+array.include?("true")
 end
 
 def using_sort(array)

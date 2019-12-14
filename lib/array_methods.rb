@@ -1,6 +1,5 @@
-def using_include(array= ["false"], element=0)
+def using_include(array= ["true"], element)
   array = ["true"]
-element = 0
 array.include?("true")
 end
 
